@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777186925861",
+    "firebase_url": "https://chatweb-78998.firebaseio.com",
+    "project_id": "chatweb-78998",
+    "storage_bucket": "chatweb-78998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777186925861:android:7a2468a9b2f280acdd4ecc",
+        "android_client_info": {
+          "package_name": "co.lokesh.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777186925861-ptvpf8u4j414420fk0i3jc355hqgnfj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQWcgwxj-i0hlnXyc_CIqfTpOlfwjmgX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777186925861-ptvpf8u4j414420fk0i3jc355hqgnfj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
